@@ -21,7 +21,7 @@ cd stalker-portal-4.9/
 
 Open stalker_portal_4.9.sh with your favorite text editor and change on line 11
 ```bash
-mysql_root_password="root1231"
+mysql_root_password="admin1231"
 ```
 This is the root password for MySQL that will be set during the installation, you can change it with yours if you wish.
 
